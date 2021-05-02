@@ -1,5 +1,9 @@
 # MERN Stack Web App
 
+## Architcture
+
+![Architcture](https://user-images.githubusercontent.com/29623199/116811345-1ea4a100-ab49-11eb-863b-6074c36c0c04.JPG)
+
 ## Meaning of MERN
 
 M:= MongoDB
